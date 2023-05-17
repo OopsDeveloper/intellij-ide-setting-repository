@@ -1,0 +1,7 @@
+<templateSet group="Vue">
+  <template name="vue-start" value="&lt;template&gt;&#10;  &lt;div&gt;&lt;/div&gt;&#10;&lt;/template&gt;&#10;&lt;script&gt;&#10;export default {&#10;  components: {},&#10;  data() {&#10;    return {&#10;      sampleData: ''&#10;    }&#10;  },&#10;  setup() {},&#10;  created() {},&#10;  mounted() {},&#10;  unmounted() {},&#10;  methods: {}&#10;}&#10;&lt;/script&gt;" description="make vue start template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>
