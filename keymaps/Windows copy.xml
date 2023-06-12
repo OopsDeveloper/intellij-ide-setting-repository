@@ -22,6 +22,12 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift alt close_bracket" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
